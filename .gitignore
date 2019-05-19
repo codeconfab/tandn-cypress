@@ -1,0 +1,10 @@
+node_modules
+*.log
+cypress/screenshots
+cypress/videos
+cypress/logs
+cypress/fixtures/profile.json
+cypress/fixtures/users.json
+dist/
+.history
+.vscode
