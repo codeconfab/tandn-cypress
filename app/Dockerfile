@@ -1,3 +1,3 @@
 FROM abiosoft/caddy
-ADD /app /www
+ADD / /www
 COPY /Caddyfile /etc/Caddyfile
